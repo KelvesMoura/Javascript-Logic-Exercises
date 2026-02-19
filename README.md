@@ -4,6 +4,14 @@ This project was created to practice and strengthen **core JavaScript logic skil
 
 ---
 
+## 🔗 Deploy
+
+### 🔗 Access the page published here:  
+
+👉 https://kelvesmoura.github.io/Javascript-Logic-Exercises/
+
+---
+
 ## 🚀 Project Goal
 
 Develop strong foundations in:
@@ -19,11 +27,13 @@ Develop strong foundations in:
 
 ## 📂 Project Structure
 
+```text
 index.html
 src/
- └── assets/
-      └── js/
-           └── exercises.js
+  └── assets/
+        └── js/
+             └── exercises.js
+```
 
 
 - `index.html` loads the script.
